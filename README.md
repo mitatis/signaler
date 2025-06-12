@@ -78,7 +78,7 @@ description: AI时代推动认知迁移，要求机构重塑结构、平衡效�
 
 ## License
 
-MIT License
+[MIT License](/LICENSE)
 
 ## Author
 
